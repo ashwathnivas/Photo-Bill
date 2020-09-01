@@ -1,4 +1,4 @@
-# Photo-Bill-Generator
+# Photo-Bill-Mart
 
 An Application using Python , Tkinter GUI and Microsoft Azure REST API and Custom Vision API to generate the Grocery Shopping Bills from the Image of Purchased Items
 
