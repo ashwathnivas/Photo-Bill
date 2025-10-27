@@ -7,3 +7,6 @@ An Application using Python , Tkinter GUI and Microsoft Azure REST API and Custo
 ![image](https://user-images.githubusercontent.com/52371968/91900661-a1284880-ecbc-11ea-8192-51040f603a18.png)
 ![image](https://user-images.githubusercontent.com/52371968/91900714-b604dc00-ecbc-11ea-87fe-ae4547d0f983.png)
 ![image](https://user-images.githubusercontent.com/52371968/91900775-d03eba00-ecbc-11ea-97f9-57bd0f6acac6.png)
+
+### Note:
+This project was a hobby work, archieved for betterment of future ;p
